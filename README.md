@@ -3,7 +3,7 @@
 - 👋 Hi there! I'm Evgenia, a data analyst based in London, with a strong foundation in statistical analysis and data science.
 - 🌱 Currently working in the pharmaceutical sector, performing data analysis and reporting using **R** and **SQL**.
 - 🔭 Here you'll find projects built with **Python, R,** and **SQL**, where I apply statistical methods and machine learning techniques to develop my data science skills.
-- 📫 How to reach me: **evgeniacharalambous3@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/evgenia-charalambous-2267451b4)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/evgenia-charalambous-2267451b4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
